@@ -1,2 +1,2 @@
-# codenamesbot
-Codenames Discord bot
+# Codenames Discord Bot
+## WIP at the moment
