@@ -1,0 +1,2 @@
+# codenamesbot
+Codenames Discord bot
