@@ -399,11 +399,9 @@ async def on_message(message):
 
     elif message.content.startswith("!codenames help"):
         help_string = "Список команд" + ''':
-:closed_book: !codenames rules
-:writing_hand: !codenames suggest
 :game_die: !codenames start
-:white_check_mark: !accept
-:x: !decline'''
+:closed_book: !codenames rules
+:writing_hand: !codenames suggest'''
         await bot.send_message(message.channel, help_string)
         
     elif message.content.startswith("!codenames rules"):
