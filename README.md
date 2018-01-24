@@ -1,5 +1,6 @@
-# Codenames Discord Bot [wip]
+<p align="center"><img src="https://github.com/raw0w/codenamesbot/blob/master/cd_header.jpg?raw=true"></p>
 
+# Codenames Discord Bot [wip]
 Discord bot that simulates Codenames boardgame. 
 
 ## What is Spyfall?
